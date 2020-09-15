@@ -1,5 +1,5 @@
 # Volume10x
-Amplify the youtube's video volume to 10x - Chrome Extension.
+Amplify the VIDEOS VOLUME to 10x - Chrome Extension.
 
 ## Description
 Most volume and equalizer Chrome Extensions do not work. This one works.
