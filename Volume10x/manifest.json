@@ -1,7 +1,7 @@
 {
   "name": "Volume 10x",
   "author": "Gurigraphics",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Amplify the video volume to 10x.",
   "browser_action": {
     "default_popup": "index.html"
@@ -10,9 +10,12 @@
            "48": "icon.png",
           "128": "icon.png" },
   "manifest_version":2,
+  "content_scripts": [{
+    "js": ["app.js"],
+    "matches": ["http://*/*", "https://*/*"]
+  }],
   "permissions": [
-        "webRequest",
         "activeTab"
-    ] 
+    ]
 }
  
