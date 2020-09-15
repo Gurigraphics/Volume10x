@@ -16,7 +16,7 @@ chrome://extensions
 #### 3) On the right, activate the "Developer Mode" slider
 
 
-#### 4) Click on "Upload without compression" and select this folder "Volume10x"
+#### 4) Click on "Upload without compression" or "Load Unpacked" and select this folder "Volume10x"
 
 
 #### 5) A green icon will appear in the upper right corner of the page.
